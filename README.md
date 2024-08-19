@@ -1,5 +1,5 @@
 # cpu-check-graph
-cpu check graph
+![스크린샷 2024-08-19 211736](https://github.com/user-attachments/assets/a5df449a-e84a-446d-ba47-a35f39881b8c)
 
 # 한국어[버전]
 
